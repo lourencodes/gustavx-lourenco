@@ -1,8 +1,8 @@
-# 侍 Gustavo Lourenço
+# Gustavo Lourenço
 
 `Front-end Developer & UI|UX Designer`
 
-Hi, I'm Gustavo, and I graduated from the University Paulista in 2023 with a degree in Computer Science. My interests are in Front End Engineering, and I love to create beautiful and performant products with delightful user experiences.
+Hi, I'm Gustavo, and I graduated from the University Paulista in 2023 with a degree in Computer Science. My interests are in Customer support, Front End Engineering, and I love to create beautiful and performant products with delightful user experiences.
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
