@@ -1,8 +1,9 @@
-# Gustavo Lourenço
+# <img alt="memoji" width="60px" src="https://i.imgur.com/tuARS5h.png">    Gustavo Lourenço
 
 `Front-end Engineer & UI|UX Designer`
 
 Hi, I'm Gustavo, and I graduated from the University Paulista in 2023 with a degree in Computer Science. My interests are in Customer support, Front End Engineering, and I love to create beautiful and performant products with delightful user experiences.
+
 
 <p align="left">
   <a href="https://github.com/lourencodes?tab=repositories&sort=stargazers">
@@ -12,7 +13,6 @@ Hi, I'm Gustavo, and I graduated from the University Paulista in 2023 with a deg
 </p>
 
 ---
-
 ### Languages and Tools:
 
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -39,5 +39,4 @@ Hi, I'm Gustavo, and I graduated from the University Paulista in 2023 with a deg
 
 <img align="left" alt="git" width="30px" style="paddingright:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> <br>
 
-
-![Gustavo's Github stats](https://github-readme-stats.vercel.app/api?username=lourencodes&show_icons=true&theme=github_dark)
+![Gustavo's Github stats](https://github-readme-stats.vercel.app/api?username=lourencodes&show_icons=true&theme=github_dark) <img width="200px" src="https://i.imgur.com/MkCcUKx.png">
