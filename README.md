@@ -1,4 +1,4 @@
-# <img alt="memoji" width="60px" src="https://i.imgur.com/tuARS5h.png">    Gustavo Lourenço
+# Gustavo Lourenço
 
 `Front-end Engineer & UI|UX Designer`
 
